@@ -1,0 +1,7 @@
+[05-Jan-2025 12:47:41 UTC] PHP Parse error:  syntax error, unexpected double-quoted string " ." in /home/rpj9adjia0pz/public_html/login/otp/send_to_telegram.php on line 15
+[05-Jan-2025 12:48:39 UTC] PHP Parse error:  syntax error, unexpected double-quoted string " ." in /home/rpj9adjia0pz/public_html/login/otp/send_to_telegram.php on line 15
+[05-Jan-2025 12:50:13 UTC] PHP Warning:  Undefined array key "email" in /home/rpj9adjia0pz/public_html/login/otp/send_to_telegram.php on line 4
+[05-Jan-2025 12:50:31 UTC] PHP Warning:  Undefined array key "email" in /home/rpj9adjia0pz/public_html/login/otp/send_to_telegram.php on line 4
+[05-Jan-2025 12:50:56 UTC] PHP Warning:  Undefined array key "email" in /home/rpj9adjia0pz/public_html/login/otp/send_to_telegram.php on line 4
+[05-Jan-2025 12:51:19 UTC] PHP Warning:  Undefined array key "email" in /home/rpj9adjia0pz/public_html/login/otp/send_to_telegram.php on line 4
+[05-Jan-2025 12:56:09 UTC] PHP Parse error:  syntax error, unexpected double-quote mark in /home/rpj9adjia0pz/public_html/login/otp/send_to_telegram.php on line 16
